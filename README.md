@@ -1,47 +1,60 @@
+# Mini Project on Descriptive Analytics using file handling 
 
-Mini Project on Descriptive Analytics using file handling
+1. **Descriptive Analysis**
 
-Descriptive Analysis
-Analyze the distribution of movie ratings. What percentage of movies have high (5), medium (3-4), and low (1-2) ratings?
+`Analyze the distribution of movie ratings. What percentage of movies have high (5), medium (3-4), and low (1-2) ratings?`
 
-Identify the top 10 most-rated movies
+`Identify the top 10 most-rated movies`
 
-Genre Insights
-Which movie genres are the most frequently rated?
 
-Compare the average ratings across different genres. Are certain genres consistently rated higher or lower?
+2. **Genre Insights**
 
-User Engagement Analysis
-Identify the most active users (profession) based on the number of ratings they’ve given.
+`Which movie genres are the most frequently rated?`
 
-Analyze the relationship between user demographic attributes (age, gender, occupation) and their movie preferences or rating patterns.
+`Compare the average ratings across different genres. Are certain genres consistently rated higher or lower?`
 
-Rating Distribution by Demographics
-Investigate how ratings vary by user demographic attributes (age, gender, occupation).
+3. **User Engagement Analysis**
 
-Are there specific genres preferred by certain age groups or occupations?
+`Identify the most active users (profession) based on the number of ratings they’ve given.`
 
-Top Performers
-Identify the movies with the highest average ratings (considering a minimum number of ratings for fairness).
+`Analyze the relationship between user demographic attributes (age, gender, occupation) and their movie preferences or rating patterns.`
 
-Analyze the characteristics of top-rated movies (e.g., release year, genres).
 
-Exploring Long Tail
-Investigate the "long tail" of the dataset: How many movies receive very few ratings?
+4. **Rating Distribution by Demographics**
 
-What are the characteristics of these less-rated movies compared to popular ones?
+`Investigate how ratings vary by user demographic attributes (age, gender, occupation).`
 
-Tag Analysis
-Analyze the tags associated with movies. What are the most frequently used tags?
+`Are there specific genres preferred by certain age groups or occupations?`
 
-Are tags consistent with movie genres?
 
-You can do for self learning
-Visualization Projects
-Create dashboards to visualize:
+5. **Top Performers**
 
-The distribution of ratings by genres and years.
+`Identify the movies with the highest average ratings (considering a minimum number of ratings for fairness).`
 
-Popular genres by user demographics.
+`Analyze the characteristics of top-rated movies (e.g., release year, genres).`
 
-Heatmaps showing the correlation between genres, user activity, and ratings
+
+6. **Exploring Long Tail**
+
+`Investigate the "long tail" of the dataset: How many movies receive very few ratings?`
+
+`What are the characteristics of these less-rated movies compared to popular ones?`
+
+
+7. **Tag Analysis**
+
+`Analyze the tags associated with movies. What are the most frequently used tags?`
+
+`Are tags consistent with movie genres?`
+
+## You can do for self learning
+
+8. **Visualization Projects**
+
+`Create dashboards to visualize:`
+
+`The distribution of ratings by genres and years.`
+
+`Popular genres by user demographics.`
+
+`Heatmaps showing the correlation between genres, user activity, and ratings`
